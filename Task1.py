@@ -1,3 +1,4 @@
+#C:\\Users\\HP\\OneDrive\\Desktop\\Internship\\Task1.csv
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -65,3 +66,10 @@ results = pd.DataFrame({
 })
 
 results.to_csv('titanic_all_passengers_predictions_Task1.csv', index=False)
+
+
+
+
+
+
+
